@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+jupyter
+tensorflow>=2.0
+torch
+torchvision
+Pillow
+scikit-learn
+
