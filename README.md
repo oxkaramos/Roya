@@ -11,10 +11,6 @@ Para ejecutar los notebooks, sigue estos pasos:
 3. Instala las dependencias necesarias ejecutando `pip install -r requirements.txt` en tu terminal.
 4. Abre Jupyter Notebook o JupyterLab y navega al directorio `notebooks/` para acceder a los notebooks.
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo `LICENSE.md` para más detalles.
-
 ## Contacto
 
 Para cualquier consulta relacionada con este proyecto, por favor, contacta a [Juan josé Zuñiga, Oscar Daniel Peña] a través de [juanjosejuniga@unicauca.edu.co, poscar@unicauca.edu.co].
